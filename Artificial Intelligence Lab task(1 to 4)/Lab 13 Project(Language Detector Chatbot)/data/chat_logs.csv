@@ -1,0 +1,19 @@
+timestamp,user_message,detected_language,bot_response
+2025-05-01 21:30:47.504338,s,sv,I detected a different language! How can I help?
+2025-05-01 21:30:53.083115,english,de,Ich habe Deutsch erkannt! Wie kann ich Ihnen helfen?
+2025-05-01 21:31:03.558792,how can i help you,cy,I detected a different language! How can I help?
+2025-05-01 21:31:15.005338,tm meri jaan ho,fi,I detected a different language! How can I help?
+2025-05-01 21:33:19.907987,hi,sw,I detected a different language! How can I help?
+2025-05-01 21:35:17,how are you,en,I detected English! How can I help you?
+2025-05-01 21:35:23,i am junaid,hr,I detected a different language! How can I help?
+2025-05-01 21:35:29,who are you,en,I detected English! How can I help you?
+2025-05-01 21:35:40,"i am junaid, im eating apple",sv,I detected a different language! How can I help?
+2025-05-01 21:35:57,"Here are some common English phrases you can use in everyday conversation: Idioms and Expressions: Explore 2,500 English idioms, phrases, and proverbs with meanings and origins.  1 Common Idioms: Learn 50 common English idioms and phrases with examples to enhance your conversation skills.  1 Native Phrases: Familiarize yourself with 50 common English phrases used by native speakers for various situations.  1 Daily Phrases: Access over 1000 common daily English phrases for beginners to improve your communication.  1",en,I detected English! How can I help you?
+2025-05-01 21:37:52,ٹی و ی سے بچوں پر اشر پر تا ہے۔ وقت ٹی و ى پ رھتے یں,ur,میں نے اردو کا پتہ لگایا! میں آپ کی کس طرح مدد کر سکتا ہوں؟
+2025-05-07 01:23:57,how are you,en,I detected English!
+2025-05-07 01:24:02,tum kese ho,et,I detected a different language!
+2025-05-07 01:24:39,ہمارا انگریزی سے اردو ترجمہ ٹول گوگل ٹرانسلیشن API سے چلتا ہے۔ اسے استعمال کرنے کے لیے، صرف بائیں ہاتھ کے متن والے حصے میں ٹائپ کریں,ur,میں نے اردو کا پتہ لگایا!
+2025-05-07 01:25:04,ہمارا انگریزی سے اردو ترجمہ ٹول گوگل ٹرانسلیشن API سے چلتا ہے۔ اسے استعمال کرنے کے لیے، صرف بائیں ہاتھ کے متن والے حصے میں ٹائپ کریں,ur,میں نے اردو کا پتہ لگایا! 
+2025-05-07 01:51:17,I am a software engineer and I love learning new languages.,en,I detected English! 
+2025-05-07 01:51:35,Soy ingeniero de software y me encanta aprender nuevos idiomas.,es,¡Detecté español!
+2025-05-07 01:52:01,میں لاہور، پاکستان میں رہتا ہوں,ur,میں نے اردو کا پتہ لگایا! 
